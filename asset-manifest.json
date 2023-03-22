@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Adivce-generator-app/static/css/main.b12a8d80.css",
-    "main.js": "/Adivce-generator-app/static/js/main.ca95f02d.js",
-    "index.html": "/Adivce-generator-app/index.html",
-    "main.b12a8d80.css.map": "/Adivce-generator-app/static/css/main.b12a8d80.css.map",
-    "main.ca95f02d.js.map": "/Adivce-generator-app/static/js/main.ca95f02d.js.map"
+    "main.css": "/Advice-generator-app/static/css/main.b12a8d80.css",
+    "main.js": "/Advice-generator-app/static/js/main.ca95f02d.js",
+    "index.html": "/Advice-generator-app/index.html",
+    "main.b12a8d80.css.map": "/Advice-generator-app/static/css/main.b12a8d80.css.map",
+    "main.ca95f02d.js.map": "/Advice-generator-app/static/js/main.ca95f02d.js.map"
   },
   "entrypoints": [
     "static/css/main.b12a8d80.css",
